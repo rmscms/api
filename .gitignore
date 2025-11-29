@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+.gitdeploy.config
+.gitdeploy.history
+*.log
+node_modules/
+vendor/
